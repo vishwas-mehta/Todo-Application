@@ -1,6 +1,7 @@
 const mongoose = require("mongoose");
 
-const conn = async(req, res) =>{
+const connection = async(req, res) =>{
 
 }
-conn();
+connection();
+
